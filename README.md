@@ -1,6 +1,6 @@
 # Hi there, I'm Sakaid Sakir! 👋
 
-### Full Stack Web & App Developer | Startup Enthusiast
+### Full Stack Web & App Developer | Startup Enthusiast | CUET
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakaid-sakir)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sakir-console)
@@ -66,13 +66,7 @@ I enjoy being challenged and engaged with projects that require me to work outsi
 ## 🎓 Education
 
 **Chittagong University of Engineering & Technology (CUET)**
-- B.Sc. in Electronics & Telecommunication Engineering | 2019 – 2024
-
-**Shahid Sayed Nazrul Islam College, Mymensingh**
-- Higher Secondary Certificate | GPA 5.00 out of 5.00
-
-**Gafargaon Islamia Govt. High School**
-- Secondary School Certificate | GPA 5.00 out of 5.00
+- B.Sc. in Electronics & Telecommunication Engineering
 
 ---
 
@@ -82,14 +76,4 @@ I enjoy being challenged and engaged with projects that require me to work outsi
 - **Location:** Gafargaon, Mymensingh-2230
 
 Feel free to check out my projects and get in touch with me!
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakir-console&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakir-console&layout=compact&theme=radical)
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sakir-console" alt="visitor badge"/>
-</p>
+ 
