@@ -8,13 +8,7 @@
 
 ---
 
-## About Me
-
-I enjoy being challenged and engaged with projects that require me to work outside my comfort and knowledge set, as I continue to learn new development techniques and tools. I'm also a passionate startup enthusiast with an unwavering drive to innovate.
-
----
-
-## 🚀 Projects
+## 🚀 Top Projects
 
 ### Full Stack Web Application Development - Laravel, Vue.js, MySQL
 **BANGLADESH NAVY - “Sailor’s Digital DRB & Smart Management System”**
