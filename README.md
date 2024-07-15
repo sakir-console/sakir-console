@@ -12,7 +12,7 @@
 
 I enjoy being challenged and engaged with projects that require me to work outside my comfort and knowledge set, as I continue to learn new development techniques and tools. I'm also a passionate startup enthusiast with an unwavering drive to innovate.
 
----
+--- 
 
 ## 🚀 Top Projects
 
@@ -55,9 +55,8 @@ I enjoy being challenged and engaged with projects that require me to work outsi
 ## 💻 Skills
 
 - **Web Design & Development:** Laravel, Vue.js, Bootstrap, Ajax, jQuery, Flutter, WordPress
-- **Mobile App Development:** Flutter
+- **Mobile & Desktop App Development:** Flutter
 - **Programming Languages:** PHP, C, JavaScript, SQL, HTML, CSS, MATLAB, Dart
-- **Desktop Software Development:** Flutter
 - **Design:** Figma, UI/UX
 - **Software Tools:** MATLAB, PHPStorm, Android Studio
 
