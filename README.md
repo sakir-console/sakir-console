@@ -73,7 +73,7 @@ I enjoy being challenged and engaged with projects that require me to work outsi
 ## 📫 Contact Me
 
 - **Email:** sakir.console@gmail.com
-- **Location:** Gafargaon, Mymensingh-2230
+- **Location:** Dhaka, Bangladesh
 
 Feel free to check out my projects and get in touch with me!
  
